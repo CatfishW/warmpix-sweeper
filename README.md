@@ -8,6 +8,14 @@
 - 无其他模组前置
 - 语言：简体中文 / English
 
+## 截图 Screenshots
+
+![扫地机器人封面：定时清扫与失物招领](docs/screenshots/01_cover.png)
+
+![失物招领](docs/screenshots/02_lostfound.png)
+
+![清扫范围与保护配置](docs/screenshots/03_config.png)
+
 ## 下载
 
 请到 [Releases](../../releases) 页面下载 jar（版本 1.0.1）。
